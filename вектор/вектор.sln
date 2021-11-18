@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "вектор", "вектор.vcxproj", "{D0837E27-0ECF-4218-AD32-15295C5FC5FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0837E27-0ECF-4218-AD32-15295C5FC5FE}.Debug|x64.ActiveCfg = Debug|x64
+		{D0837E27-0ECF-4218-AD32-15295C5FC5FE}.Debug|x64.Build.0 = Debug|x64
+		{D0837E27-0ECF-4218-AD32-15295C5FC5FE}.Debug|x86.ActiveCfg = Debug|Win32
+		{D0837E27-0ECF-4218-AD32-15295C5FC5FE}.Debug|x86.Build.0 = Debug|Win32
+		{D0837E27-0ECF-4218-AD32-15295C5FC5FE}.Release|x64.ActiveCfg = Release|x64
+		{D0837E27-0ECF-4218-AD32-15295C5FC5FE}.Release|x64.Build.0 = Release|x64
+		{D0837E27-0ECF-4218-AD32-15295C5FC5FE}.Release|x86.ActiveCfg = Release|Win32
+		{D0837E27-0ECF-4218-AD32-15295C5FC5FE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C959128E-2696-4FB8-9AC9-AA7F1E18E683}
+	EndGlobalSection
+EndGlobal

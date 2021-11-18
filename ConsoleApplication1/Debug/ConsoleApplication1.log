@@ -1,0 +1,7 @@
+﻿  ConsoleApplication1.cpp
+ConsoleApplication1.obj : error LNK2005: _main уже определен в ComplNum.obj
+ComplNum.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __thiscall ComplexNumber::init(int,int)" (?init@ComplexNumber@@QAEXHH@Z) в функции _main.
+ComplNum.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __thiscall ComplexNumber::show(void)" (?show@ComplexNumber@@QAEXXZ) в функции _main.
+ComplNum.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: class ComplexNumber __thiscall ComplexNumber::add(class ComplexNumber)" (?add@ComplexNumber@@QAE?AV1@V1@@Z) в функции _main.
+ComplNum.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __thiscall ComplexNumber::add2(class ComplexNumber)" (?add2@ComplexNumber@@QAEXV1@@Z) в функции _main.
+C:\Users\R2R\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe : fatal error LNK1120: неразрешенных внешних элементов: 4

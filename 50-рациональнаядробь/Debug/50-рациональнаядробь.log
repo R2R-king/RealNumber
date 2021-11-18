@@ -1,0 +1,8 @@
+﻿  50-рациональнаядробь.cpp
+C:\Users\R2R\source\repos\50-рациональнаядробь\50-рациональнаядробь.cpp(18,5): error C2065: chislo_1: необъявленный идентификатор
+C:\Users\R2R\source\repos\50-рациональнаядробь\50-рациональнаядробь.cpp(20,5): error C2065: chislo_1: необъявленный идентификатор
+C:\Users\R2R\source\repos\50-рациональнаядробь\50-рациональнаядробь.cpp(21,5): error C2065: chislo_1: необъявленный идентификатор
+  RationalFraction.cpp
+C:\Users\R2R\source\repos\50-рациональнаядробь\RationalFraction.cpp(7,1): error C2011: RationalFraction: переопределение типа "class"
+C:\Users\R2R\source\repos\50-рациональнаядробь\RationalFraction.h(2): message : см. объявление "RationalFraction"
+  Создание кода...
